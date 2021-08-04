@@ -1,0 +1,17 @@
+.main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.derrota,
+.ganhou {
+  color: red;
+  margin: 100px 0;
+  text-align: center;
+}
+
+.ganhou {
+  color: green;
+}

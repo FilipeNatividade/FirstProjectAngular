@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #f5f5f5;
+  margin-top: 20px;
+  padding: 50px 30px;
+}
+
+.buttonVer {
+  margin-top: 20px;
+}
+
+.form-control {
+  outline: none;
+  resize: none;
+  padding: 10px;
+}
+ 
